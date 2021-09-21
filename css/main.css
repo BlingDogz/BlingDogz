@@ -774,9 +774,9 @@ nav ul li :last-of-type {
       -ms-flex-direction: row;
           flex-direction: row;
   height: 150px;
-  width: 50%;
+  width: 60%;
   margin: 0 auto;
-  font-size: 2em;
+  font-size: 1.2em;
 }
 
 .socials a {
